@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">ToDoList</string>
+    <string name="ToDo_mainbutton">Tareas</string>
+    <string name="ToDo_title">To Do List</string>
+    <string name="ToDo_text1">Categorias</string>
+    <string name="ToDo_tasks">Tareas</string>
+    <string name="ToDo_dialog">Añade la tarea</string>
+    <string name="ToDo_rbBusiness">Negocios</string>
+    <string name="ToDo_rbPersonal">Personal</string>
+    <string name="ToDo_rbOther">Otros</string>
+    <string name="ToDo_AddTask">Crear Tarea</string>
+</resources>
